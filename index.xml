@@ -7,5 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://ELF-Lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Members</title>
+      <link>https://ELF-Lab.github.io/members/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ELF-Lab.github.io/members/</guid>
+      <description> Chris Hammerly Sonja Fougère Anna Stacey Reed Steiner ??? </description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://ELF-Lab.github.io/projects/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ELF-Lab.github.io/projects/</guid>
+      <description> Eye-tracking projects Ojibwe syntax projects Ojibwe parser project ??? </description>
+    </item>
   </channel>
 </rss>
