@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on ELF Lab</title>
-    <link>https://ELF-Lab.github.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in News on ELF Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ELF-Lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ELF lab @ LSURC 2025!</title>
-      <link>https://ELF-Lab.github.io/post/lsurc/</link>
+      <link>http://localhost:1313/post/lsurc/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/post/lsurc/</guid>
+      <guid>http://localhost:1313/post/lsurc/</guid>
       <description>&lt;p&gt;At the end of February, our Director Dr.Hammerly was invited as a plenary speaker to the Language Sciences Undergraduate Research Conference. This conference run by UBC undergraduates is a celebration of the exciting research done by undergraduates across Canada.&lt;/p&gt;&#xA;&lt;p&gt;Dr. Hammerly was invited to speak on the various projects being developed at ELF Lab relating to technology&amp;rsquo;s role in language revitalization.&lt;/p&gt;&#xA;&lt;p&gt;Additionally, our undergraduate RA, Hope Trischuk, gave an oral presentation on her work with ELF lab: Assessing Intuitions about Obviation in Learners of Anishinaabemowin.&#xA;For her efforts, she was awarded first place in the Oral Presentation category!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lab Meeting-March 25th</title>
-      <link>https://ELF-Lab.github.io/post/labmeetingannouncement1/</link>
+      <link>http://localhost:1313/post/labmeetingannouncement1/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/post/labmeetingannouncement1/</guid>
+      <guid>http://localhost:1313/post/labmeetingannouncement1/</guid>
       <description>&lt;p&gt;Next full lab meeting will be on March 25th from 4-5pm in Stores Road Annex Room 5&lt;/p&gt;&#xA;&lt;p&gt;Feel free to reach out if you would like to attend and learn more about ELF lab!&lt;/p&gt;</description>
     </item>
   </channel>
