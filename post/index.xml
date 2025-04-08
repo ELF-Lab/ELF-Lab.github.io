@@ -2,24 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on ELF Lab</title>
-    <link>https://ELF-Lab.github.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in News on ELF Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ELF-Lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Paper from Chris Hammerly and Minh Nguyen</title>
+      <link>http://localhost:1313/post/minh&#43;chrispaper/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/minh&#43;chrispaper/</guid>
+      <description>&lt;p&gt;ELF Lab members Chris and Minh have published a proceedings paper at the conference &lt;a href=&#34;https://turing.iimas.unam.mx/americasnlp/&#34;&gt;AmericasNLP&lt;/a&gt; on Ojibwe machine translation.&lt;/p&gt;&#xA;&lt;p&gt;Nguyen, M. Hammerly, C. Silfverberg, M. (2025) A hybrid approach to low-resource machine translation for Ojibwe verbs. &lt;em&gt;Proceedings of the 5th Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP 2025).&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper from from ELF members and collaborators</title>
+      <link>http://localhost:1313/post/naaclpaper/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/naaclpaper/</guid>
+      <description>&lt;p&gt;ELF Lab members and collaborators, Shenran Wang, Changbing Yang, Mike Parkhill, Chad Quinn, Jian Zhu, and Chris Hammerly published a paper in the &lt;a href=&#34;https://naacl.org/&#34;&gt;NAACL&lt;/a&gt; proceedings.&lt;/p&gt;&#xA;&lt;p&gt;Wang, S., Yang, C., Parkhill, M., Quinn, C., Hammerly, C., and Zhu, J. (2025) Developing multilingual speech synthesis system for Ojibwe, Mi’kmaq, and Maliseet. &lt;em&gt;In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper from Viann Sum Yat Chan and Chris Hammerly</title>
+      <link>http://localhost:1313/post/viann&#43;chrispaper/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/viann&#43;chrispaper/</guid>
+      <description>&lt;p&gt;ELF Lab members, Viann and Chris published a paper in the proceedings of the &lt;a href=&#34;https://computel-workshop.org/&#34;&gt;ComputEL-8 Workshop&lt;/a&gt; in Honolulu on an Ojibwe text-to-speech Teacher Workshop&lt;/p&gt;&#xA;&lt;p&gt;Chan, V. &amp;amp; Hammerly, C. (2025) Evaluating Indigenous language speech synthesis for education: A participatory design workshop on Ojibwe text-to-speech. &lt;em&gt;In Proceedings of the 8th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-8).&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ELF lab @ LSURC 2025!</title>
-      <link>https://ELF-Lab.github.io/post/lsurc/</link>
+      <link>http://localhost:1313/post/lsurc/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/post/lsurc/</guid>
+      <guid>http://localhost:1313/post/lsurc/</guid>
       <description>&lt;p&gt;At the end of February, our Director Dr.Hammerly was invited as a plenary speaker to the Language Sciences Undergraduate Research Conference. This conference run by UBC undergraduates is a celebration of the exciting research done by undergraduates across Canada.&lt;/p&gt;&#xA;&lt;p&gt;Dr. Hammerly was invited to speak on the various projects being developed at ELF Lab relating to technology&amp;rsquo;s role in language revitalization.&lt;/p&gt;&#xA;&lt;p&gt;Additionally, our undergraduate RA, Hope Trischuk, gave an oral presentation on her work with ELF lab: Assessing Intuitions about Obviation in Learners of Anishinaabemowin.&#xA;For her efforts, she was awarded first place in the Oral Presentation category!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lab Meeting-March 25th</title>
-      <link>https://ELF-Lab.github.io/post/labmeetingannouncement1/</link>
+      <link>http://localhost:1313/post/labmeetingannouncement1/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/post/labmeetingannouncement1/</guid>
+      <guid>http://localhost:1313/post/labmeetingannouncement1/</guid>
       <description>&lt;p&gt;Next full lab meeting will be on March 25th from 4-5pm in Stores Road Annex Room 5&lt;/p&gt;&#xA;&lt;p&gt;Feel free to reach out if you would like to attend and learn more about ELF lab!&lt;/p&gt;</description>
     </item>
   </channel>
