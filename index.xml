@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ELF Lab</title>
+    <title>ELF-Lab</title>
     <link>https://ELF-Lab.github.io/</link>
-    <description>Recent content on ELF Lab</description>
+    <description>Recent content on ELF-Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ELF-Lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://ELF-Lab.github.io/contact/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ELF-Lab.github.io/contact/</guid>
+      <description>&lt;p&gt;If you have any questions or inquiries about current studies, research, joining our team or anything else related to the lab do not hesitate to reach out via email!&lt;/p&gt;&#xA;&lt;p&gt;ELF lab email: &lt;a href=&#34;mailto:elf.lab@ubc.ca&#34;&gt;elf.lab@ubc.ca&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Members</title>
+      <link>https://ELF-Lab.github.io/members/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ELF-Lab.github.io/members/</guid>
+      <description>&lt;h2 id=&#34;director&#34;&gt;Director&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Dr. Christopher Hammerly&lt;/strong&gt; is Director of ELF-Lab and an Assistant Professor in the Department of Linguistics at UBC. He is a member (descendent) of the White Earth Nation in Minnesota of mixed Anishinaabe and Norwegian American descent. His work primarily focuses on his ancestral language Anishinaabemowin. He uses a variety of methods to understand the cognitive representations and processes underpinning human knowledge of syntax (sentence structure) and morphology (word structure), including formal theories, fieldwork, computational models, and experimental tasks.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://ELF-Lab.github.io/images/ChrisHeadshot.jpeg&#34; alt=&#34;Chris Hammerly Headshot&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Anna Stacey&lt;/strong&gt; is an incoming PhD student at UBC Linguistics and former MA student (completed 2025). She works on technological developments for Indigenous languages. She got her BSc in Computer Science and Linguistics from UManitoba in 2022. Anna has been developing software for ELF Lab as an RA for over 3 years, working on code for eye-tracking experiments (VisualWorldTools) and creating tests for the Ojibwe morphological parser (ParserTools). She is also involved in fieldwork on Nɬeʔkepmxcín, a Salish language spoken in the Pacific Northwest. In her free time, she loves heading outside to work on her knowledge of flowers and birds, and making music.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://ELF-Lab.github.io/images/AnnaHeadshot.jpeg&#34; alt=&#34;Anna Stacey Headshot&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Marcella Jurotich&lt;/strong&gt; is a third year PhD student in Linguistics at UBC. Her research interests are in syntax and psycholinguistics, particularly in the interaction between Information Structural elements and syntax and the processing of non-canonical structures. She is excited to be part of the ELF-Lab and to be able to learn more about Anishinaabemowin. In her spare time, she enjoys embroidering, dancing, and playing piano.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://ELF-Lab.github.io/images/MarcellaHeadshot.jpeg&#34; alt=&#34;Marcella Jurotich Headshot&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;strong&gt;Elizabeth Harrigan&lt;/strong&gt; is a MA student in Linguistics at UBC, and has worked in ELF-Lab as a Research Assistant on the Ojibwe Corpus project and constraint-based learning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://ELF-Lab.github.io/projects/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ELF-Lab.github.io/projects/</guid>
+      <description>&lt;h2 id=&#34;ojibwemorph-a-finite-state-transducer-for-ojibwe-2022present&#34;&gt;OjibweMorph: A finite-state transducer for Ojibwe (2022–Present)&lt;/h2&gt;&#xA;&lt;p&gt;The goal of this project is to build a computational model of all possible word forms in Ojibwe, with a particular focus on the Southwestern dialects. Our model is based in a technology called finite-state transducers (FSTs), which uses rules to generate precise outputs. The end result is a program that can provide a sophisticated linguistic analysis for almost any word of Ojibwe, and also produce correct forms of a word given a set of inputs.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New Paper from Chris Hammerly and Minh Nguyen</title>
       <link>https://ELF-Lab.github.io/post/minh&#43;chrispaper/</link>
@@ -42,27 +63,6 @@
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://ELF-Lab.github.io/post/labmeetingannouncement1/</guid>
       <description>&lt;p&gt;Next full lab meeting will be on March 25th from 4-5pm in Stores Road Annex Room 5&lt;/p&gt;&#xA;&lt;p&gt;Feel free to reach out if you would like to attend and learn more about ELF lab!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://ELF-Lab.github.io/contact/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/contact/</guid>
-      <description>&lt;p&gt;If you have any questions or inquiries about current studies, research, joining our team or anything else related to the lab do not hesitate to reach out via email!&lt;/p&gt;&#xA;&lt;p&gt;ELF lab email: &lt;a href=&#34;mailto:elf.lab@ubc.ca&#34;&gt;elf.lab@ubc.ca&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Members</title>
-      <link>https://ELF-Lab.github.io/members/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/members/</guid>
-      <description>&lt;h2 id=&#34;current-members&#34;&gt;Current Members&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Dr. Christopher Hammerly&lt;/strong&gt; is Director of ELF-Lab and an Assistant Professor in the Department of Linguistics at UBC. He is a member (descendent) of the White Earth Nation in Minnesota of mixed Anishinaabe and Norwegian American descent. His work primarily focuses on his ancestral language Anishinaabemowin. He uses a variety of methods to understand the cognitive representations and processes underpinning human knowledge of syntax (sentence structure) and morphology (word structure), including formal theories, fieldwork, computational models, and experimental tasks.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://ELF-Lab.github.io/images/ChrisHeadshot.jpeg&#34; alt=&#34;Chris Hammerly Headshot&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Anna Stacey&lt;/strong&gt; is an incoming PhD student at UBC Linguistics and former MA student (completed 2025). She works on technological developments for Indigenous languages. She got her BSc in Computer Science and Linguistics from UManitoba in 2022. Anna has been developing software for ELF Lab as an RA for over 3 years, working on code for eye-tracking experiments (VisualWorldTools) and creating tests for the Ojibwe morphological parser (ParserTools). She is also involved in fieldwork on Nɬeʔkepmxcín, a Salish language spoken in the Pacific Northwest. In her free time, she loves heading outside to work on her knowledge of flowers and birds, and making music.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://ELF-Lab.github.io/images/AnnaHeadshot.jpeg&#34; alt=&#34;Anna Stacey Headshot&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Marcella Jurotich&lt;/strong&gt; is a third year PhD student in Linguistics at UBC. Her research interests are in syntax and psycholinguistics, particularly in the interaction between Information Structural elements and syntax and the processing of non-canonical structures. She is excited to be part of the ELF-Lab and to be able to learn more about Anishinaabemowin. In her spare time, she enjoys embroidering, dancing, and playing piano.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://ELF-Lab.github.io/images/MarcellaHeadshot.jpeg&#34; alt=&#34;Marcella Jurotich Headshot&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;strong&gt;Elizabeth Harrigan&lt;/strong&gt; is a MA student in Linguistics at UBC, and has worked in ELF-Lab as a Research Assistant on the Ojibwe Corpus project and constraint-based learning.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>https://ELF-Lab.github.io/projects/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/projects/</guid>
-      <description>&lt;h2 id=&#34;ojibwemorph-a-finite-state-transducer-for-ojibwe-2022present&#34;&gt;OjibweMorph: A finite-state transducer for Ojibwe (2022–Present)&lt;/h2&gt;&#xA;&lt;p&gt;The goal of this project is to build a computational model of all possible word forms in Ojibwe, with a particular focus on the Southwestern dialects. Our model is based in a technology called finite-state transducers (FSTs), which uses rules to generate precise outputs. The end result is a program that can provide a sophisticated linguistic analysis for almost any word of Ojibwe, and also produce correct forms of a word given a set of inputs.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
