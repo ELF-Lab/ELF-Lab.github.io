@@ -30,39 +30,60 @@
       <description>&lt;h2 id=&#34;ojibwemorph-a-finite-state-transducer-for-ojibwe-2022present&#34;&gt;OjibweMorph: A finite-state transducer for Ojibwe (2022–Present)&lt;/h2&gt;&#xA;&lt;p&gt;The goal of this project is to build a computational model of all possible word forms in Ojibwe, with a particular focus on the Southwestern dialects. Our model is based in a technology called finite-state transducers (FSTs), which uses rules to generate precise outputs. The end result is a program that can provide a sophisticated linguistic analysis for almost any word of Ojibwe, and also produce correct forms of a word given a set of inputs.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>ELF-Lab @ LREC 2026 in Mallorca</title>
+      <link>https://ELF-Lab.github.io/post/2026-lrec/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ELF-Lab.github.io/post/2026-lrec/</guid>
+      <description>&lt;p&gt;A number of current and former ELF-Lab members are presenting at the International Conference on Language Resources and Evaluation (LREC) in Mallorca, Spain from May 13-15.&lt;/p&gt;&#xA;&lt;p&gt;Current RA Matthias Diederichsen and Professor Christopher Hammerly are presenting their work entitled &lt;em&gt;Two Ojibwe Constraint Grammars: Morphological Disambiguation and Dependency Parsing&lt;/em&gt; in a talk on May 15th. You can find the full proceedings paper &lt;a href=&#34;https://lrec.elra.info/lrec2026-main-766&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Former RA and UBC MA student Anna Stacey is presenting her work in a poster on May 13th entitled &lt;em&gt;Glossed Data in Northern Interior Salish&lt;/em&gt;. You can find the full proceedings paper &lt;a href=&#34;https://lrec.elra.info/lrec2026-main-278&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jurotich &amp; Hammerly at HSP</title>
+      <link>https://ELF-Lab.github.io/post/2026-marcella-hsp/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ELF-Lab.github.io/post/2026-marcella-hsp/</guid>
+      <description>&lt;p&gt;PhD Student and graduate RA Marcella Jurotich (with co-author Chris Hammerly) is presenting her work entitled &lt;em&gt;Impact of Information Structure on Comprehension of the Inverse Verb Form in Ojibwe&lt;/em&gt; in a poster at the &lt;a href=&#34;https://hsp2026.org/&#34;&gt;39th Annual Conference on Human Sentence Processing&lt;/a&gt; at MIT on March 26-28, 2026.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diederichsen wins Best Oral Presentation Award at LSURC</title>
+      <link>https://ELF-Lab.github.io/post/2026-matthias-lsurc/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ELF-Lab.github.io/post/2026-matthias-lsurc/</guid>
+      <description>&lt;p&gt;Undergraduate RA Matthias Diederichsen won the Best Oral Presentation Award for his talk at the &lt;a href=&#34;https://blogs.ubc.ca/lsurc/&#34;&gt;Language Sciences Undergraduate Research Coference (LSURC)&lt;/a&gt; at UBC, which took place on February 27th and 28th, 2026. His talk was entitled &lt;em&gt;Word Order in a “Free Word Order” Language: An Ojibwe Treebank Study&lt;/em&gt; and looked at how animacy impacts word order and argument realization in Ojibwe texts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OjibweMorph paper appears in LRE</title>
+      <link>https://ELF-Lab.github.io/post/2026-ojibwemorphpaper/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ELF-Lab.github.io/post/2026-ojibwemorphpaper/</guid>
+      <description>&lt;p&gt;A paper describing the &lt;em&gt;Ojibwemorph&lt;/em&gt; FST is now out in Language Resources and Evaluation. Check it out for details on the model creation and evaluation, and see our &lt;a href=&#34;https://github.com/ELF-Lab/OjibweMorph&#34;&gt;GitHub repository&lt;/a&gt; for the latest updates!&lt;/p&gt;&#xA;&lt;p&gt;Hammerly, C., Livesay, N., Arppe, A., Stacey, A., &amp;amp; Silfverberg, M. (2026). &lt;a href=&#34;https://link.springer.com/article/10.1007/s10579-025-09887-4&#34;&gt;OjibweMorph: an approachable finite-state transducer for Ojibwe (and beyond)&lt;/a&gt;. Language Resources and Evaluation, 60(2), 27.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>New Paper from Chris Hammerly and Minh Nguyen</title>
-      <link>https://ELF-Lab.github.io/post/minh&#43;chrispaper/</link>
+      <link>https://ELF-Lab.github.io/post/2025-minh&#43;chrispaper/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/post/minh&#43;chrispaper/</guid>
+      <guid>https://ELF-Lab.github.io/post/2025-minh&#43;chrispaper/</guid>
       <description>&lt;p&gt;ELF Lab members Chris and Minh have published a proceedings paper at the conference &lt;a href=&#34;https://turing.iimas.unam.mx/americasnlp/&#34;&gt;AmericasNLP&lt;/a&gt; on Ojibwe machine translation.&lt;/p&gt;&#xA;&lt;p&gt;Nguyen, M. Hammerly, C. Silfverberg, M. (2025) A hybrid approach to low-resource machine translation for Ojibwe verbs. &lt;em&gt;Proceedings of the 5th Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP 2025).&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Paper from from ELF members and collaborators</title>
-      <link>https://ELF-Lab.github.io/post/naaclpaper/</link>
+      <link>https://ELF-Lab.github.io/post/2025-naaclpaper/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/post/naaclpaper/</guid>
+      <guid>https://ELF-Lab.github.io/post/2025-naaclpaper/</guid>
       <description>&lt;p&gt;ELF Lab members and collaborators, Shenran Wang, Changbing Yang, Mike Parkhill, Chad Quinn, Jian Zhu, and Chris Hammerly published a paper in the &lt;a href=&#34;https://naacl.org/&#34;&gt;NAACL&lt;/a&gt; proceedings.&lt;/p&gt;&#xA;&lt;p&gt;Wang, S., Yang, C., Parkhill, M., Quinn, C., Hammerly, C., and Zhu, J. (2025) Developing multilingual speech synthesis system for Ojibwe, Mi’kmaq, and Maliseet. &lt;em&gt;In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Paper from Viann Sum Yat Chan and Chris Hammerly</title>
-      <link>https://ELF-Lab.github.io/post/viann&#43;chrispaper/</link>
+      <link>https://ELF-Lab.github.io/post/2025-viann&#43;chrispaper/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/post/viann&#43;chrispaper/</guid>
+      <guid>https://ELF-Lab.github.io/post/2025-viann&#43;chrispaper/</guid>
       <description>&lt;p&gt;ELF Lab members, Viann and Chris published a paper in the proceedings of the &lt;a href=&#34;https://computel-workshop.org/&#34;&gt;ComputEL-8 Workshop&lt;/a&gt; in Honolulu on an Ojibwe text-to-speech Teacher Workshop&lt;/p&gt;&#xA;&lt;p&gt;Chan, V. &amp;amp; Hammerly, C. (2025) Evaluating Indigenous language speech synthesis for education: A participatory design workshop on Ojibwe text-to-speech. &lt;em&gt;In Proceedings of the 8th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-8).&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ELF lab @ LSURC 2025!</title>
-      <link>https://ELF-Lab.github.io/post/lsurc/</link>
+      <link>https://ELF-Lab.github.io/post/2025-lsurc/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/post/lsurc/</guid>
+      <guid>https://ELF-Lab.github.io/post/2025-lsurc/</guid>
       <description>&lt;p&gt;At the end of February, our Director Dr.Hammerly was invited as a plenary speaker to the Language Sciences Undergraduate Research Conference. This conference run by UBC undergraduates is a celebration of the exciting research done by undergraduates across Canada.&lt;/p&gt;&#xA;&lt;p&gt;Dr. Hammerly was invited to speak on the various projects being developed at ELF Lab relating to technology&amp;rsquo;s role in language revitalization.&lt;/p&gt;&#xA;&lt;p&gt;Additionally, our undergraduate RA, Hope Trischuk, gave an oral presentation on her work with ELF lab: Assessing Intuitions about Obviation in Learners of Anishinaabemowin.&#xA;For her efforts, she was awarded first place in the Oral Presentation category!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lab Meeting-March 25th</title>
-      <link>https://ELF-Lab.github.io/post/labmeetingannouncement1/</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ELF-Lab.github.io/post/labmeetingannouncement1/</guid>
-      <description>&lt;p&gt;Next full lab meeting will be on March 25th from 4-5pm in Stores Road Annex Room 5&lt;/p&gt;&#xA;&lt;p&gt;Feel free to reach out if you would like to attend and learn more about ELF lab!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
